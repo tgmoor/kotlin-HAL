@@ -1,0 +1,42 @@
+<application>
+  <component name="Perl5ApplicationSettings">
+    <option name="pluginVersion" value="2018.3.5" />
+    <option name="popupShown" value="true" />
+  </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Local, System: Perl v5.26.1" />
+      <type value="Perl5 Interpreter" />
+      <version value="v5.26.1 for x86_64-linux-gnu-thread-multi" />
+      <homePath value="/usr/bin/perl" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/perl5/lib/perl5/x86_64-linux-gnu-thread-multi" type="simple" />
+            <root url="file://$USER_HOME$/perl5/lib/perl5" type="simple" />
+            <root url="file:///etc/perl" type="simple" />
+            <root url="file:///usr/lib/x86_64-linux-gnu/perl5/5.26" type="simple" />
+            <root url="file:///usr/share/perl5" type="simple" />
+            <root url="file:///usr/lib/x86_64-linux-gnu/perl/5.26" type="simple" />
+            <root url="file:///usr/share/perl/5.26" type="simple" />
+            <root url="file:///usr/lib/x86_64-linux-gnu/perl-base" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="system" />
+      </additional>
+    </perl>
+  </component>
+</application>
