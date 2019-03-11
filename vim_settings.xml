@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1552338311168">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1552340505476">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -17,6 +20,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
