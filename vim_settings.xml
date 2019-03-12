@@ -6,23 +6,61 @@
       <file name="/Dummy.txt" timestamp="1552367917382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Idea_workspace/HelloWorld/src/app.kt" timestamp="1552368708200" />
+      <file name="$USER_HOME$/Projects/Idea_workspace/src/main/java/Main.java" timestamp="1552420531284">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Idea_workspace/pom.xml" timestamp="1552420131815">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="144" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNkZGRkcyBNYWluIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICA8L2RlcGVuZGVuY2llcz4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>undo</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
