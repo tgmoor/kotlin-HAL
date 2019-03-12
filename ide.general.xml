@@ -1,4 +1,8 @@
 <application>
+  <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Projects/Idea_workspace" />
+  </component>
   <component name="Registry">
     <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
