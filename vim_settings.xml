@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/FirstSpark/src/main/java/Main.java" timestamp="1552449417060">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552367917382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -10,6 +15,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/FirstSpark/pom.xml" timestamp="1552449271661">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Idea_workspace/pom.xml" timestamp="1552420131815">
         <mark key="[" line="143" column="0" />
@@ -30,9 +41,18 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNkZGRkcyBNYWluIHsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNkZGRkcyBNYWluIHsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CiAgICA8L2RlcGVuZGVuY2llcz4K</text>
       </register>
       <register name=":" type="4">
